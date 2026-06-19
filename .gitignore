@@ -4,3 +4,6 @@ package.json
 package-lock.json
 *.docx
 philosophical-wisdom-raw.md
+*_book.py
+remaining-edited.txt
+index-reference.html
