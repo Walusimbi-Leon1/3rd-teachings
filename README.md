@@ -19,11 +19,19 @@ This book is a collection of philosophical teachings (LPT — Leon's Philosophic
 The book is published at:  
 [https://walusimbi-leon1.github.io/3rd-teachings/](https://walusimbi-leon1.github.io/3rd-teachings/)
 
+## Download
+
+The complete book is available as a PDF for offline reading:  
+[📥 Download PDF](./3rd-teachings.pdf)
+
+Or read the source on [GitHub](https://github.com/Walusimbi-Leon1/3rd-teachings).
+
 ## Files
 
 | File | Description |
 |------|-------------|
 | `book.md` | The complete book text (edited and expanded) |
+| `3rd-teachings.pdf` | PDF version for offline reading |
 | `index.html` | GitHub Pages website |
 | `LICENSE` | CC0 1.0 Universal (Public Domain) |
 
