@@ -1,0 +1,6 @@
+node_modules/
+build.js
+package.json
+package-lock.json
+*.docx
+philosophical-wisdom-raw.md
